@@ -1,5 +1,6 @@
 # News-and-OpenWeather
 Trivia Challenge - Приложение-викторина
+![2025-06-01_18-36-45](https://github.com/user-attachments/assets/59c2bb28-daf8-491a-8210-9585c7f413ea)
 Скриншот приложения
 
 Обзор
